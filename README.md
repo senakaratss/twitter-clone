@@ -23,12 +23,15 @@ This project is a Twitter clone application that replicates core social media fe
 1. Clone the repository
    
 2. Navigate to the project folder and install all dependencies for backend and frontend, and build the frontend:
+   
     npm run build
    
-3.To start the development server with auto-reload:
+4. To start the development server with auto-reload:
+   
     npm run dev
     
-4.To start the production server:
+5. To start the production server:
+   
     npm start
 
 ## Usage

@@ -30,7 +30,9 @@ This project is a Twitter clone application that replicates core social media fe
 
 ## Usage
 -Register or log in to start using the app
+
 -Create tweets, interact with others through likes and comments
+
 -Follow users to see their updates on your timeline
 
 ## Contributing
